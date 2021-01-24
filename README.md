@@ -3,4 +3,4 @@ Programming projects for C++ Programming II, primarily based upon [Tony Gaddis's
 
 | Chapter | Assignment |
 | --- | --- | 
-| [9: Pointers](ProgrammingChallenges/Pointers) | [2. Test Scores #1](ProgrammingChallenges/Pointers/2:Test_Scores_1.md) |
+| [9: Pointers](ProgrammingChallenges/Pointers) | [2. Test Scores #1](ProgrammingChallenges/Pointers/2/) |
