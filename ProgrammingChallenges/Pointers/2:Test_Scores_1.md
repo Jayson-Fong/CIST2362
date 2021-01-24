@@ -1,4 +1,4 @@
-# 2. Test Scores #1 [\[Code\]](2:Test_Scores_1.cpp)
+# 2. Test Scores #1 [Code](2:Test_Scores_1.cpp)
 The primary objective is to practice using pointers, so they are almost everywhere possible. The program asks for several test scores, then orders them, calculates an average for them, and displays them.
 
 ## Required Criteria
