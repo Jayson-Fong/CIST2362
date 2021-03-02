@@ -6,3 +6,10 @@ Feel free to take inspiration from my works; however, usage constitutes attribut
 | Chapter | Assignment |
 | --- | --- | 
 | [9: Pointers](ProgrammingChallenges/Pointers) | [2. Test Scores #1](ProgrammingChallenges/Pointers/2/) |
+| [10: C-Strings](ProgrammingChallenges/C-Strings) | [3. Word Counter](ProgrammingChallenges/C-Strings/3/) |
+| [11: Structured Data](ProgrammingChallenges/Structures) | [12. Course Grade](ProgrammingChallenges/Structures/12/) |
+| [14: More About Classes](ProgrammingChallenges/MoreClasses) | [8-11-E. Random Sentences](ProgrammingChallenges/MoreClasses/8-11-E) |
+
+| Chapter | Class Lab |
+| --- | --- |
+| 13: Classes | [Random Number Set](ClassLabs/RandomNumberSet) |
