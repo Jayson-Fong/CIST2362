@@ -1,4 +1,4 @@
-# 8-11-E. Random Sentences
+# 8-11-E. Random Sentences (Modified)
 The primary objective is to create random sentences using arrays of words.
 
 ## Required Criteria
