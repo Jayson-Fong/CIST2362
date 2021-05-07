@@ -11,6 +11,9 @@ Feel free to take inspiration from my works; however, usage constitutes attribut
 | [14: More About Classes](ProgrammingChallenges/MoreClasses) | [8-11-E. Random Sentences (Modified)](ProgrammingChallenges/MoreClasses/8-11-E) |
 | [15: Polymorphism](ProgrammingChallenges/Polymorphism) | [11-13-E. Drink Machine Simulator (Modified)](ProgrammingChallenges/Polymorphism/11-13-E/) |
 | [15: Polymorphism](ProgrammingChallenges/Polymorphism) | [12. Ship, CruiseShip, and CargoShip Classes](ProgrammingChallenges/Polymorphism/12/) |
+| [16: Exceptions and Templates](ProgrammingChallenges/ExceptionsTemplates) | [5: Total Template](ProgrammingChallenges/ExceptionsTemplates/5/) |
+| [17: Linked Lists](ProgrammingChallenges/LinkedLists) | [Number List](ProgrammingChallenges/LinkedLists/A/) |
+| [19: Stacks and Queues](ProgrammingChallenges/StacksQueues) | [2, 4: Dynamic Stack/Queue Template](ProgrammingChallenges/StacksQueues/2_4/) |
 
 | Chapter | Class Lab |
 | --- | --- |
