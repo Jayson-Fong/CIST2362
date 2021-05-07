@@ -15,3 +15,8 @@ Feel free to take inspiration from my works; however, usage constitutes attribut
 | Chapter | Class Lab |
 | --- | --- |
 | 13: Classes | [Random Number Set](ClassLabs/RandomNumberSet) |
+
+| Project |
+| --- |
+| [Final Exam Project: User Authentication System](FinalExamProject/) |
+| [Final Project: HEX -> Binary & Base 10 -> IEEE 754 Single-Precision Converter](FinalProject/) |
